@@ -1,0 +1,13 @@
+D:\Thiago\Projetos\C#\AulaPOOCrud\obj\Debug\netcoreapp3.1\AulaPOOCrud.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\AulaPOOCrud\obj\Debug\netcoreapp3.1\AulaPOOCrud.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOCrud\obj\Debug\netcoreapp3.1\AulaPOOCrud.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOCrud\obj\Debug\netcoreapp3.1\AulaPOOCrud.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\AulaPOOCrud\bin\Debug\netcoreapp3.1\AulaPOOCrud.exe
+D:\Thiago\Projetos\C#\AulaPOOCrud\bin\Debug\netcoreapp3.1\AulaPOOCrud.deps.json
+D:\Thiago\Projetos\C#\AulaPOOCrud\bin\Debug\netcoreapp3.1\AulaPOOCrud.runtimeconfig.json
+D:\Thiago\Projetos\C#\AulaPOOCrud\bin\Debug\netcoreapp3.1\AulaPOOCrud.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\AulaPOOCrud\bin\Debug\netcoreapp3.1\AulaPOOCrud.dll
+D:\Thiago\Projetos\C#\AulaPOOCrud\bin\Debug\netcoreapp3.1\AulaPOOCrud.pdb
+D:\Thiago\Projetos\C#\AulaPOOCrud\obj\Debug\netcoreapp3.1\AulaPOOCrud.dll
+D:\Thiago\Projetos\C#\AulaPOOCrud\obj\Debug\netcoreapp3.1\AulaPOOCrud.pdb
+D:\Thiago\Projetos\C#\AulaPOOCrud\obj\Debug\netcoreapp3.1\AulaPOOCrud.genruntimeconfig.cache
